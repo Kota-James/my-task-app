@@ -1,0 +1,102 @@
+[
+  {
+    "id": "task_20250721_140000_000001",
+    "title": "プレゼンテーション資料作成",
+    "description": "来週のプロジェクト発表用のスライドを作成する。グラフとデータ分析結果を含む。",
+    "priority": "高",
+    "due_date": "2025-07-25",
+    "category": "仕事",
+    "tags": [
+      "重要",
+      "プレゼン",
+      "締切あり"
+    ],
+    "estimated_time": 120,
+    "progress": 65,
+    "pomodoro_count": 4,
+    "actual_time": 100,
+    "completed": false,
+    "created_at": "2025-07-21T10:00:00",
+    "updated_at": "2025-07-21T14:00:00"
+  },
+  {
+    "id": "task_20250721_110000_000002",
+    "title": "英語の勉強",
+    "description": "TOEIC対策の単語帳を30ページ進める",
+    "priority": "中",
+    "due_date": "2025-07-22",
+    "category": "学習",
+    "tags": [
+      "英語",
+      "TOEIC",
+      "日課"
+    ],
+    "estimated_time": 50,
+    "progress": 80,
+    "pomodoro_count": 2,
+    "actual_time": 50,
+    "completed": false,
+    "created_at": "2025-07-21T11:00:00",
+    "updated_at": "2025-07-21T13:30:00"
+  },
+  {
+    "id": "task_20250721_120000_000003",
+    "title": "買い物リスト作成",
+    "description": "今週末の食材と日用品の買い物リストを作成",
+    "priority": "低",
+    "due_date": "2025-07-23",
+    "category": "生活",
+    "tags": [
+      "買い物",
+      "食材",
+      "日用品"
+    ],
+    "estimated_time": 15,
+    "progress": 100,
+    "pomodoro_count": 1,
+    "actual_time": 15,
+    "completed": true,
+    "created_at": "2025-07-21T12:00:00",
+    "updated_at": "2025-07-21T12:15:00"
+  },
+  {
+    "id": "task_20250721_090000_000004",
+    "title": "プログラミング課題",
+    "description": "データ構造とアルゴリズムの宿題を完成させる",
+    "priority": "高",
+    "due_date": "2025-07-20",
+    "category": "学習",
+    "tags": [
+      "プログラミング",
+      "課題",
+      "大学"
+    ],
+    "estimated_time": 180,
+    "progress": 30,
+    "pomodoro_count": 2,
+    "actual_time": 50,
+    "completed": false,
+    "created_at": "2025-07-20T09:00:00",
+    "updated_at": "2025-07-21T11:00:00"
+  },
+  {
+    "id": "task_20250721_130000_000005",
+    "title": "ジムでのトレーニング",
+    "description": "週3回のトレーニングルーチン：有酸素運動30分 + 筋トレ45分",
+    "priority": "中",
+    "due_date": null,
+    "category": "健康",
+    "tags": [
+      "運動",
+      "ジム",
+      "健康管理"
+    ],
+    "estimated_time": 75,
+    "progress": 0,
+    "pomodoro_count": 0,
+    "actual_time": 0,
+    "completed": false,
+    "created_at": "2025-07-21T13:00:00",
+    "updated_at": "2025-07-21T13:00:00"
+  }
+]

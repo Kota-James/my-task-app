@@ -1,0 +1,12 @@
+name: my-task-app-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - customtkinter==5.2.2
+    - pillow==10.0.0
+    - darkdetect==0.8.0
+    - packaging==23.1

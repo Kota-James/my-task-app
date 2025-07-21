@@ -1,0 +1,42 @@
+{
+  "name": "task-master-pro-web",
+  "version": "1.0.0",
+  "description": "🎯 タスクマスター Pro - Web版高機能タスク管理アプリ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "bun run dev"
+  },
+  "keywords": ["task-management", "pomodoro", "productivity", "react", "typescript"],
+  "author": "Kota-James",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "lucide-react": "^0.263.1",
+    "recharts": "^2.7.2",
+    "framer-motion": "^10.16.0",
+    "react-hot-toast": "^2.4.1",
+    "zustand": "^4.4.1",
+    "date-fns": "^2.30.0",
+    "@radix-ui/react-dialog": "^1.0.4",
+    "@radix-ui/react-select": "^1.2.2",
+    "@radix-ui/react-slider": "^1.1.2",
+    "@radix-ui/react-switch": "^1.0.3",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "@radix-ui/react-progress": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5"
+  }
+}
