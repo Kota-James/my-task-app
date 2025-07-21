@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Secret files
+.env
+*.env
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
